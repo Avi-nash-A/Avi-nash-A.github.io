@@ -1,45 +1,10 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Surya Aravapalli</h1></summary>
-  </ul>
-</div>
-
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/Jashwanth0011/Jashwanth/blob/main/grid-snake.svg" alt="snake" /></a>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Data is the new oil – extracting insights is my expertise</h2></summary>
-  </ul>
-</div>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br>
-
+# Data Analyst
+## About me
 👋 Hello! I'm a Data Analyst with over 5 years of experience turning raw data into actionable insights to drive business decisions.  
 - Expertise in data visualization tools like Power BI, Tableau, and Excel, and proficient in SQL, Python, and R for data manipulation and analysis.  
 - Skilled in building interactive dashboards, crafting detailed reports, and leveraging machine learning techniques to uncover trends and optimize performance.  
-- Passionate about storytelling through data and solving complex business problems with analytical thinking. Let’s connect and explore data-driven opportunities! 📊✨  
-  
-<br>
-
-## 🛠️ My Skills
--------------------
-### Methodologies:
-![Agile](https://img.shields.io/badge/-Agile-000)
-![Waterfall](https://img.shields.io/badge/-Waterfall-000)
-
+- Passionate about storytelling through data and solving complex business problems with analytical thinking. Let’s connect and explore data-driven opportunities! 📊✨
+## Skills
 ### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
 ![R](https://img.shields.io/badge/-R-000?logo=R)
@@ -82,25 +47,4 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=Jupyter)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?logo=Apache-Kafka)
 ![Terraform](https://img.shields.io/badge/-Terraform-000)
-
-## 📫 Connect with me
-<p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/surya-aravapalli-b67368201/">
-            <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://avi-nash-a.github.io/">
-            <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:aravapalliavinashbabu@gmail.com">
-            <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
- </div>
-</p>
-
-<p align="center">
-Total visitors till now 👇❤️<br>
-<img src="https://profile-counter.glitch.me/Avi-nash-A/count.svg">
-</p>
-
--------
-Credits: [surya](https://avi-nash-a.github.io/)  
-Last Edited on: 08-01-2025
 
