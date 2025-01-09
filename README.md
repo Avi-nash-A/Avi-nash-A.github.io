@@ -1,9 +1,10 @@
 # Data Analyst
 ## About me
-👋 Hello! I'm a Data Analyst with over 5 years of experience turning raw data into actionable insights to drive business decisions.  
+- Hello! I'm a Data Analyst with over 5 years of experience turning raw data into actionable insights to drive business decisions.  
 - Expertise in data visualization tools like Power BI, Tableau, and Excel, and proficient in SQL, Python, and R for data manipulation and analysis.  
 - Skilled in building interactive dashboards, crafting detailed reports, and leveraging machine learning techniques to uncover trends and optimize performance.  
-- Passionate about storytelling through data and solving complex business problems with analytical thinking. Let’s connect and explore data-driven opportunities! 📊✨
+- Passionate about storytelling through data and solving complex business problems with analytical thinking. Let’s connect and explore data-driven opportunities!
+
 ## Skills
 ### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
