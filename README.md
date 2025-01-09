@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Naveenreddy</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Surya Aravapalli</h1></summary>
   </ul>
 </div>
 
@@ -27,10 +27,10 @@
 
 <br>
 
-- 👋 Hello! I'm a Data Engineer with over 5 years of experience in building efficient data pipelines and cloud migrations. 
-- Expertise in cloud platforms (Azure, AWS), leveraging Python, SQL, and machine learning libraries like Pandas, NumPy, and TensorFlow to drive insights.
-- I have a proven track record of automating workflows and creating scalable solutions for business intelligence through Power BI and Tableau.
-- Passionate about solving real-world problems using data. Let’s connect and explore data-driven solutions! 🏆
+👋 Hello! I'm a Data Analyst with over 5 years of experience turning raw data into actionable insights to drive business decisions.  
+- Expertise in data visualization tools like Power BI, Tableau, and Excel, and proficient in SQL, Python, and R for data manipulation and analysis.  
+- Skilled in building interactive dashboards, crafting detailed reports, and leveraging machine learning techniques to uncover trends and optimize performance.  
+- Passionate about storytelling through data and solving complex business problems with analytical thinking. Let’s connect and explore data-driven opportunities! 📊✨  
   
 <br>
 
@@ -44,8 +44,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
 ![R](https://img.shields.io/badge/-R-000?logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=SQL)
-![PySpark](https://img.shields.io/badge/-PySpark-000?logo=Apache-Spark)
-![Scala](https://img.shields.io/badge/-Scala-000?logo=Scala)
 
 ### ML Algorithms:
 ![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-000)
@@ -71,24 +69,11 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?logo=Power-BI)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?logo=Tableau)
 
-### Big Data technologies:
-![Hadoop](https://img.shields.io/badge/-Hadoop-000?logo=Apache-Hadoop)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?logo=Apache-Airflow)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?logo=Apache-Spark)
-
 ### Cloud Technologies and Services:
 ![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?logo=Microsoft-Azure)
-![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-000?logo=Microsoft-Azure)
-![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-000?logo=Microsoft-Azure)
-![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-000?logo=Microsoft-Azure)
-![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-000)
-![Lambda](https://img.shields.io/badge/-Lambda-000?logo=AWS-Lambda)
-![Redshift](https://img.shields.io/badge/-Redshift-000?logo=Amazon-Redshift)
 
 ### Databases:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-000?logo=Oracle)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
 
 ### Misc Tools:
@@ -101,21 +86,21 @@
 ## 📫 Connect with me
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/naveenreddy-n-8190a819b/">
+        <a target="_blank" href="https://www.linkedin.com/in/surya-aravapalli-b67368201/">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/naveenly">
+        <a style="margin-left: 10px;" target="_blank" href="https://avi-nash-a.github.io/">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:naveenly.7@gmail.com">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:aravapalliavinashbabu@gmail.com">
             <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
  </div>
 </p>
 
 <p align="center">
 Total visitors till now 👇❤️<br>
-<img src="https://profile-counter.glitch.me/naveenreddy/count.svg">
+<img src="https://profile-counter.glitch.me/Avi-nash-A/count.svg">
 </p>
 
 -------
-Credits: [Naveenreddy](https://github.com/naveenly7)  
-Last Edited on: 22-10-2024
+Credits: [surya](https://avi-nash-a.github.io/)  
+Last Edited on: 08-01-2025
 
