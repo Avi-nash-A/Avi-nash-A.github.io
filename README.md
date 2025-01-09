@@ -4,7 +4,9 @@
 - Expertise in data visualization tools like Power BI, Tableau, and Excel, and proficient in SQL, Python, and R for data manipulation and analysis.  
 - Skilled in building interactive dashboards, crafting detailed reports, and leveraging machine learning techniques to uncover trends and optimize performance.  
 - Passionate about storytelling through data and solving complex business problems with analytical thinking. Let’s connect and explore data-driven opportunities!
-
+# Education
+Master's Degree,  Data Science | University of memphis(2023-2024)
+Bachelor's Degree, ECE | Sathyabama Institute of science and technology(20116-2020)
 ## Skills
 ### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
@@ -37,7 +39,7 @@
 
 ### Cloud Technologies and Services:
 ![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?logo=Microsoft-Azure)
+![Azure](https://img.shields.io/badge/-Azure-000?logo=M-icrosoft-Azure)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
